@@ -1,0 +1,20 @@
+.font-face{
+    font-family: 'Courier New', Courier, monospace;
+    src:url("/assets/font/Pinkan\ Twistera\ DEMO\ VERSION.otf")
+}
+.header_left_side{
+    display:flex;
+    width:50%;
+    align-items:center;
+
+}
+.photo_div{
+    width:20%;
+    height:10%;
+}
+.header_right_side{
+    display:flex;
+    width:50%;
+    align-items:center;
+
+}
